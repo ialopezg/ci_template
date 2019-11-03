@@ -1,0 +1,25 @@
+{
+    "name": "ialopezg/ci_template",
+    "description": "CodeIgniter Theme Templating",
+    "keywords": ["codeigniter", "themes", "templates", "template"],
+    "homepage": "https://github.com/ialopezg/CI_Template",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isidro A. Lopez G.",
+            "email": "isidro.lopezg@live.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ialopezg/CI_Template/issues",
+        "source": "https://github.com/ialopezg/CI_Template"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
