@@ -1,2 +1,3 @@
-# locale
-Language Package for PHP Platforms
+# CI_Template
+
+CodeIgniter Templating
