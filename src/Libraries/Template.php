@@ -3,7 +3,7 @@
 namespace ialopezg\Libraries;
 
 class Template {
-    public function __construct($config = []) {
-        die(var_dump($config));
+    public function __construct() {
+        die(var_dump($this));
     }
 }
